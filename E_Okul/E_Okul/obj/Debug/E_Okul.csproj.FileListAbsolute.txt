@@ -1,0 +1,15 @@
+D:\Visual Studio\udemy\E_Okul\E_Okul\bin\Debug\E_Okul.exe.config
+D:\Visual Studio\udemy\E_Okul\E_Okul\bin\Debug\E_Okul.exe
+D:\Visual Studio\udemy\E_Okul\E_Okul\bin\Debug\E_Okul.pdb
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.csprojAssemblyReference.cache
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.Properties.Resources.resources
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.csproj.GenerateResource.cache
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.exe
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.pdb
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.FrmOgrenciNotlar.resources
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.FrmOgretmen.resources
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.FrmAnaForm.resources
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.FrmKulup.resources
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.FrmDersIşlem.resources
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.FrmOgrenciislem.resources
+D:\Visual Studio\udemy\E_Okul\E_Okul\obj\Debug\E_Okul.frmSinavNotlar.resources
